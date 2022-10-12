@@ -23,7 +23,7 @@ Below you will find the steps to create a project using firebase-tools CLI.
 ```
 
 
-```
+```sh
 > Functions: Configure and deploy Cloud Functions
 
 Options: Create a new project
