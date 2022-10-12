@@ -30,7 +30,7 @@ Options: Create a new project
 Please specify a unique project id (warning: cannot be modified afterward)[6-30 characters]: 
 > frb-gql-your-project
 
-What whould you like to call your project? (default to your project ID)
+What would you like to call your project? (default to your project ID)
 > <Press Enter>
 
 What language would you like to use to write Cloud Functions?
