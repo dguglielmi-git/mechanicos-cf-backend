@@ -46,7 +46,7 @@ Do you want to install dependencies wityh npm now?
 
 ## Test and Deploy 📦
 
-Before deploying your functions, you can test if everything is running properly in your local machine:
+Before deploying your functions, you can test if everything works correctly on your local machine:
 
 ### Running in your local machine for testing purposes
 ```sh
